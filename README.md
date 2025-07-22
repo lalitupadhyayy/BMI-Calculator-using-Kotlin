@@ -19,8 +19,8 @@ A simple and elegant **Body Mass Index (BMI) Calculator** built using **Kotlin**
 
 ## 📱 Screenshots
 
-> *(Add screenshots here when available)*  
-> You can use Android Studio Emulator or your physical device to capture screenshots and paste them here.
+<img src="calc.png" width="250"/>
+<img src="calc.png" width="250"/>
 
 ---
 
