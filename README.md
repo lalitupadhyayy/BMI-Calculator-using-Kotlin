@@ -19,8 +19,7 @@ A simple and elegant **Body Mass Index (BMI) Calculator** built using **Kotlin**
 
 ## 📱 Screenshots
 
-<img src="calc.png" width="250"/>
-<img src="calc.png" width="250"/>
+<img src="mainScreen" width="250"/>    <img src="resultScreenPhoto.png" width="250"/>
 
 ---
 
